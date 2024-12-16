@@ -131,5 +131,5 @@ El archivo [ERD DIAGRAM REFFINDR TEAM DATA.pdf](https://github.com/igrowker/i004
 - **Base de Datos:** AWS RDS
 - **Web Scraping:** BeautifulSoup, Requests
 - **Manejo de Datos:** Numpy, Pandas
-- **Base de Datos:** SQLAlchemy, psycopg2-binary
+- **Libreria Python - Base de Datos:** SQLAlchemy, psycopg2-binary
 - **Otros:** Flask-Swagger-UI para la documentación de la API
